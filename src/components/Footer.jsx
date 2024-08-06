@@ -109,7 +109,7 @@ const Footer = () => {
 
         <div>
           <h5>Email</h5>
-          <a href="mailto: info@mbachaiwala.com">Info@mbachaiwala.com</a>
+          <a href="mailto: kumarvinay15381@gmail.com">kumarvinay15381@gmail.com</a>
           <a href="mailto: franchise@mbachaiwala.com">
             Franchise@mbachaiwala.com
           </a>
@@ -117,7 +117,7 @@ const Footer = () => {
 
         <div>
           <h5>Phone</h5>
-          <a href="tel: +91722905222">+91722905222</a>
+          <a href="tel: +9336713280">+9336713280</a>
         </div>
 
         <p>© COPYRIGHT 2022 MBA CHAIWALA. MADE BY</p>
